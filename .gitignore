@@ -1,0 +1,9 @@
+﻿client/.vs
+client/Library
+client/Logs
+client/obj
+client/Temp
+client/.vsconfig
+client/Assembly-CSharp.csproj
+client/client.sln
+client/UserSettings
